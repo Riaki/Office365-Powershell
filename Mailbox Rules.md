@@ -1,0 +1,3 @@
+```
+Get-InboxRule -Mailbox recipient
+```
