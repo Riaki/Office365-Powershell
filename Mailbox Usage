@@ -1,0 +1,3 @@
+```
+Get-MailboxStatistics user | ft DisplayName, TotalItemSize, ItemCount
+```
